@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppAnimais</string>
+
+
+    <string name="txtNomeAnimal">Nome do animal</string>
+    <string name="hintNomeAnimal">Digite o nome do animal</string>
+
+    <string name="txtIdadeAnimal">Idade do animal</string>
+    <string name="hintIdadeAnimal">Digite a idade do animal</string>
+
+    <string name="txtCategoria">Escolha a categoria do animal</string>
+
+    <string name="txtCsdastroCat">Cadastro de categoria</string>
+    <string name="hintCategoria">Digite a categoria a ser cadastrada</string>
+
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+    <string name="txtSelecione">Selecione...</string>
+
+    <string name="txtAtenção">ATENÇÂO!</string>
+    <string name="txtAviso">Preencha todos os campos!!</string>
+</resources>
